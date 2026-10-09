@@ -28,6 +28,10 @@ Hace tiempo que me dedico al servicio técnico de PC. Esa base me enseñó cómo
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-30D475?style=for-the-badge&logo=systemd&logoColor=black)
+
 
 ## 📂 Proyectos y write-ups
 
