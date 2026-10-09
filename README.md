@@ -34,5 +34,5 @@ Hace tiempo que me dedico al servicio técnico de PC. Esa base me enseñó cómo
 
 ## 📫 Contacto
 
-- LinkedIn: [Facundo Alejandro Ferreyra](https://www.linkedin.com/in/TU-USUARIO)
+- LinkedIn: [Facundo Alejandro Ferreyra](www.linkedin.com/in/facundo-alejandro-ferreyra-a0a5b3270)
 - Email: facundoferreyra2001@outlook.com
