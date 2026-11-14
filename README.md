@@ -19,7 +19,6 @@ Hace tiempo que me dedico al servicio técnico de PC. Esa base me enseñó cómo
 
 - Resolviendo salas y rutas de aprendizaje en *TryHackMe*
 - Participando en *CTFs* para practicar
-- Armando mi *home lab* con VirtualBox y Kali Linux
 - Documentando lo que aprendo en este perfil (write-ups y notas)
 
 ## 🧰 Herramientas y tecnologías
